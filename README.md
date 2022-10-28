@@ -1,5 +1,7 @@
-Przykład funkcjonalności "app directory" w wersji stable w Next.js 13
-=====================================================================
+Wersji stable w Next.js 13
+==========================
+
+przykład do porównania wersji stable z wersją beta app directory
 
 ![Lubię Programować](https://znajdz-taniej.pl/logo-lp-circle.png)
 
